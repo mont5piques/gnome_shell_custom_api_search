@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="custom-api-search-provider@nytrio.com">
+    <schema path="/org/gnome/shell/extensions/custom-api-search-provider/" id="org.gnome.shell.extensions.custom-api-search-provider">
+        <key type="as" name="sources">
+            <default>[]</default>
+            <summary>JSON API URL for search</summary>
+        </key>
+    </schema>
+</schemalist>
