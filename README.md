@@ -1,6 +1,8 @@
 # Custom API Search Provider
 
 
+![Screenshot](screenshot.png)
+
 
 This extension allow to use a custom API as a gnome search provider.
 It was tested on gnome-shell 3.26 to 3.33
