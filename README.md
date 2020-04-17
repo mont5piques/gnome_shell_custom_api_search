@@ -64,9 +64,9 @@ The output format must be a valid JSON with this structure :
 
 ```
 
-Each record will results to a label with a maximum of 10 labels. See field description below for details.
+See field description below for details.
 
-| **Field** | **Description** | **Required / **Optional |
+| **Field** | **Description** | **Required / **Optional** |
 |:--- |:--- |:--- |
 | id | A unique string result id (not necessarily an UUID) | Required |
 | label | Search result label (first column in result list) | Required |
